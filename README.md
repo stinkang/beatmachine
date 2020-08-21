@@ -9,7 +9,7 @@ Open Max and navigate to `Options > Audio Status...` Set the Input Device to you
 
 To record, locate your `horiz/slider/01` and press it. This puts you in `record` mode. Now, when you press and hold any one of your pads, you map whatever audio is playing during the duration of the press to that pad as a sample. 
 
-Note: The odot route objects currently are mapped to an AKAI MPK Mini Play, so you may have to adjust the mappings so that your midi controller works as expected. 
+Note: The odot route objects currently are mapped to an AKAI MPK Mini Play, so you may have to adjust the mappings so that your MIDI controller works as expected. 
 
 To play back your samples, locate `horiz/slider/02` on your MIDI pad and press it. Now you're in `play` mode. When you press any of your previously-loaded pads your sample should play (make sure you adjust the live.gains accordingly -- left is meant for monitoring during recording mode, so you'll want to mute this one).
 

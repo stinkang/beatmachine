@@ -5,7 +5,7 @@ record samples directly from your record player and make instant music.
 
 Make sure you have Max 8 installed. Before opening Max, plug your USB turntable and your MIDI controller into your computer.
 
-Open Max and navigate to `Options > Audio Status...` Set the Input Device to your USB turntable. Test the audio by turning on audio in Max (click bottom right power button and any `startwindow` message). Then, play something on your turntable. You should hear the audio coming from Max. If not, further debugging is required.... 
+Open Max and navigate to `Options > Audio Status...` Set the Input Device to your USB turntable. Test the audio by turning on audio in Max (click bottom right power button and any `startwindow` message). Open `beat_machine.maxpat`. Then, play something on your turntable. You should hear the audio coming from Max. If not, further debugging is required.... 
 
 To record, locate your `horiz/slider/01` and press it. This puts you in `record` mode. Now, when you press and hold any one of your pads, you map whatever audio is playing during the duration of the press to that pad as a sample. 
 

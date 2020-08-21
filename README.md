@@ -15,3 +15,9 @@ To play back your samples, locate `horiz/slider/02` on your MIDI pad and press i
 
 A last convenience is the sfrecord~ block at the bottom. Hit `open` right above it to name a file that will be your 'final' ('aggregate,' maybe ?) sample. Hit the `1` and play your heart out on the pads. Then, hit `0` and go find the sample you just created in your files. Isn't it marvelous?
 
+### TODO: 
+1. UI
+2. Get a better MIDI controller.
+3. Map record `final` sample button to MIDI
+4. Recursively store loops to pads
+5. Effects

@@ -1,6 +1,10 @@
 # beatmachine
 record samples directly from your record player and make instant music.
 
+## Update 3/4/23
+
+AUv3 implementation: https://github.com/stinkang/BeatMachineAudioUnit
+
 ## Usage
 
 Make sure you have Max 8 installed. Before opening Max, plug your USB turntable and your MIDI controller into your computer.
